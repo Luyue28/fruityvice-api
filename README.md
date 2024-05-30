@@ -2,7 +2,10 @@
 
 ## Project Overview
 
-This project is a school assignment aimed at helping users search for information on various fruits. Users can either input the name of a fruit or click on predefined fruit buttons to get detailed information about the fruits. This project uses the [Fruityvice API](https://www.fruityvice.com/) to fetch the data.
+This project is a school assignment aimed at helping users search for information on various fruits. Users can either input the name of a fruit or click on predefined fruit buttons to get detailed information about the fruit. This project uses the [Fruityvice API](https://www.fruityvice.com/) to fetch the data.
+
+Before you start exploring this project, please acquire temporary access through the link: https://cors-anywhere.herokuapp.com/corsdemo Temporary access is required to bypass CORS limitations. Once you have temporary access, you can use my web application on any device without issues. Here is the hosted link to this project: https://fruityvice01.netlify.app/html/
+
 
 ## Features
 
