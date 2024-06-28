@@ -33,7 +33,7 @@ async function handleSearchClick(event) {
         }
     } catch (error) {
         console.error('Error:', error);
-        window.location.href = 'msg.html';
+        // window.location.href = 'msg.html';
     }
 }
 
@@ -51,6 +51,6 @@ async function handleFindClick(event) {
         }
     } catch (error) {
         console.error('Error:', error);
-        window.location.href = 'msg.html';
+        // window.location.href = 'msg.html';
     }
 }
